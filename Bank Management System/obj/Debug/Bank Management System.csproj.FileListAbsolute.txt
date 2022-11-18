@@ -1,0 +1,11 @@
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Form1.resources
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\Hp\Documents\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hp\Documents\calculatr\calculatr\bin\Debug\calculatr.exe.config
+C:\Users\Hp\Documents\calculatr\calculatr\bin\Debug\calculatr.exe
+C:\Users\Hp\Documents\calculatr\calculatr\bin\Debug\calculatr.pdb
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.Form1.resources
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.Properties.Resources.resources
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.exe
+C:\Users\Hp\Documents\calculatr\calculatr\obj\Debug\calculatr.pdb
